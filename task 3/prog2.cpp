@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     if (httpCode == 200) {
         cout << httpData->c_str();
     } else {
-        cerr << "HTTP response code not 200 OK. Got " << httpCode << "instead" << endl;
+        cerr << "HTTP response code not 200 OK. Got " << httpCode << " instead" << endl;
         exit(2);
     }
 

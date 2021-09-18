@@ -38,3 +38,11 @@ task 2/cmake-build-debug/
 task 3/.idea/
 
 task 3/cmake-build-debug/
+
+.DS_Store
+
+task 3 prog 1/.idea/
+
+task 3 prog 1/cmake-build-debug/_deps/json-build/cmake_install.cmake
+
+task 3 prog 1/cmake-build-debug/
